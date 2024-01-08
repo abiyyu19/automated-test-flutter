@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "192249653199",
+    "project_id": "fir-login-email-password",
+    "storage_bucket": "fir-login-email-password.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192249653199:android:885c8a6560ac02b6ffd4ba",
+        "android_client_info": {
+          "package_name": "com.example.automated_test_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyaby8xII8fBXC4oe7ZPMhnRazxejobas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192249653199:android:a55d3c364da681f3ffd4ba",
+        "android_client_info": {
+          "package_name": "com.example.firebase_login_email_password"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyaby8xII8fBXC4oe7ZPMhnRazxejobas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
